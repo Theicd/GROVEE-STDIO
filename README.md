@@ -1,6 +1,7 @@
 # JanusGrove
 
-ממשק וובי פרימיום ליצירת תמונות בדפדפן עם [Janus-Pro-1B-ONNX](https://huggingface.co/onnx-community/Janus-Pro-1B-ONNX).
+ממשק וובי פרימיום ליצירת תמונות בדפדפן עם https://theicd.github.io/GROVEE-STDIO/
+
 
 ## Quick start
 
